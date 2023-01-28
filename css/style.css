@@ -1,0 +1,13 @@
+body { 
+    color: #421; 
+    font-weight: bold; 
+    font-family: "Courier New"; 
+    background: rgb(200, 232, 241); 
+
+
+}
+
+
+h1,h2{
+	font-size: 2.5em;
+}
